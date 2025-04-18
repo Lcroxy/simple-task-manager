@@ -38,6 +38,8 @@ For Windows:
 
 task_manager.exe
 
+```bash
+
 ## 📌 Project Structure
 makefile
 .
