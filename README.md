@@ -23,6 +23,15 @@ The program reads and writes to this file every time you interact with the task 
 - g++ or any other compatible C++ compiler
 - Terminal access
 
+##📈 Future Plans
+
+I will continue updating this project by adding more features and improvements as I learn more. The current version is stable and works as intended, but it's only the beginning.
+
+##🧠 Why This Project?
+
+Since I was a kid, I loved taking things apart — from RC cars to LEDs — just to see how they worked. I always felt curious about electronics, robotics, and later programming.
+This project brings together that curiosity and my passion for building things with code. It’s simple, but it works — and it’s mine.
+
 ## 🚀 Running the Project
 
 Clone or download the project and compile:
@@ -38,10 +47,7 @@ For Windows:
 
 task_manager.exe
 
-```bash
-
-## 📌 Project Structure
-makefile
+##📌 Project Structure
 .
 ├── include/
 │   └── json.hpp         # JSON library
@@ -50,14 +56,6 @@ makefile
 ├── LICENSE              # MIT License
 └── README.md            # You’re reading it :)
 
-## 📈 Future Plans
-
-I will continue updating this project by adding more features and improvements as I learn more. The current version is stable and works as intended, but it's only the beginning.
-
-## 🧠 Why This Project?
-
-Since I was a kid, I loved taking things apart — from RC cars to LEDs — just to see how they worked. I always felt curious about electronics, robotics, and later programming.
-This project brings together that curiosity and my passion for building things with code. It’s simple, but it works — and it’s mine.
 
 
 
