@@ -40,8 +40,6 @@ task_manager.exe
 
 ## 📌 Project Structure
 makefile
-Copiar
-Editar
 .
 ├── include/
 │   └── json.hpp         # JSON library
